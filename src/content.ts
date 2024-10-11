@@ -67,7 +67,7 @@ const content: ContentTypes = {
         {
             date_range: "8/23 - 12/23",
             title: "Primus Aerospace",
-            description: "As the Owner and Operator of The Silver Lining Shear Company, I provide mobile repair and maintenance services for high-quality shears, serving stylists, barbers, and dog groomers. Utilizing water-cooled, high-speed machinery and applying advanced techniques such as precision grinding and polishing, I restore up to 80% of the operational lifespan of shears previously deemed unusable. I work with durable materials like cobalt, molybdenum, and vanadium alloys, ensuring cutting efficiency and heat dissipation. Through rigorous quality control, I maintain sharpness, balance, and craftsmanship, which has led to a 20% increase in shear sales. In 2023, I grew the business by 40% through direct marketing and face-to-face sales, fostering strong relationships with industry partners and clients.",
+            description: "I have extensive experience assembling complex aluminum aerospace components, including booster covers, detonator housings, Javelin bodies, and Boeing heat sinks, using precise tooling and technical drawings. By managing a second shift and operating HAAS and MAZAK CNC machines, I boosted assembly lab output by 35% and collaborated with engineering to improve the assembly rate by 5%. Additionally, my expertise in applying epoxy adhesives and soldering electrical components contributed to a 99% product pass rate and a 75% reduction in rework due to soldering defects.",
             imgUrl: "https://jaron-portfolio-bucket.s3.amazonaws.com/timeline-item-4.webp",
             order: 3
         },
