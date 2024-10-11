@@ -19,18 +19,18 @@ class App extends Component<{}, State> {
 
   state = {
     content: content,
-    loading: true,
+    loading: false,
   }
 
-  componentDidMount(): void {
-      this.handleLoadSplash()
-  }
+  // componentDidMount(): void {
+  //     this.handleLoadSplash()
+  // }
 
-  handleLoadSplash = () => {
-    setTimeout(() => {
-      this.setState({loading: false})
-    }, 100)
-  }
+  // handleLoadSplash = () => {
+  //   setTimeout(() => {
+  //     this.setState({loading: false})
+  //   }, 100)
+  // }
 
   render() {
 
